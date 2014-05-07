@@ -11,7 +11,7 @@ M202 Homework 1.1
 ```
 	curl -OL https://mms.mongodb.com/download/agent/monitoring/mongodb-mms-monitoring-agent_2.1.2.43-1_i386.deb
 ```
-	or
+or
 ```
 	curl -OL https://downloads.mongodb.com/on-prem-mms/deb/mongodb-mms_1.4.1.62-1_x86_64.deb
 ```
@@ -21,7 +21,7 @@ M202 Homework 1.1
 ```
 	sudo dpkg -i mongodb-mms-monitoring-agent_2.1.2.43-1_i386.deb
 ```
-	or 
+or 
 ```
 	sudo dpkg -i mongodb-mms_1.4.1.62-1_x86_64.deb
 ```
