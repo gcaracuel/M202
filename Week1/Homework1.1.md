@@ -27,7 +27,7 @@ or
 ```
 
 - Edit /etc/mongodb-mms/monitoring-agent.config and enter your API key:
-	mmsApiKey=<Here your MMS KEy>
+	mmsApiKey=\<Here your MMS KEy\>
 
 - Start the agent
 ```
