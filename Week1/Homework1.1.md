@@ -1,8 +1,8 @@
 M202 Homework 1.1
 ========================
 
-*Prerequisites (Ubuntu)
------------------------
+### Prerequisites (Ubuntu)
+
 ```
 	sudo apt-get install sysstat libgl1-mesa-dev
 ```
